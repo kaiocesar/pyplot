@@ -1,0 +1,2 @@
+git+http://github.com/xamox/pygame
+
